@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #1E1E1E;
+    height: 100px;
+    text-align: center;
+}
+
+nav {
+    padding-top: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 15px;
+}
+
+.logo {
+    width: 100vw; 
+    height: 336px;
+}
+
+section {
+    text-align: center;
+}
+
+div {
+    display: inline-block;
+}
+
+.cartaz {
+    height: 320px;
+    width: 200px;
+    display: inline-block;
+    padding-top: 40px;
+}
+
+footer {
+    margin-top: 30px;
+    height: 100px;
+    background-color: #1E1E1E;    
+}
+
+p { 
+    text-align: left;
+    font-size: 80%;
+    
+    color: #FFFFFF;
+}
+
+figcaption {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.logos {
+    margin-top: 20px;
+    width: 40px;
+}
+
+.seta {
+    width: 50px;
+    padding: 0px 0px 150px 0px;
+}
+
+.txt-footer {
+    padding-left: 15px;
+    text-align: center;
+}
+
